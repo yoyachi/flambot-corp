@@ -28,7 +28,6 @@ This is a REACT Global State application project for our full stack JavaScrip de
 
 https://github.com/yoyachi/flambot-corp
 
-https://github.com/drewvena/flambot-corp
 
 https://flambot-corp.herokuapp.com/
 
