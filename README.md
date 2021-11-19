@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a REACT Global State application project for our full stack JavaScrip development boot-camp at the University of Texas. This application is a T-shirt store where you would be able to shop for t-shirts by filtered selection, signup/Login, and checkout using Stripe online payment.
+This is a REACT Global State application.This application is a T-shirt store where you would be able to shop for products by filtered selection, signup/Login, and checkout using Stripe online payment.
 
 ## Usage
 
