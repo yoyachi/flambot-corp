@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a REACT Global State application.This application is a T-shirt store where you would be able to shop for products by filtered selection, signup/Login, and checkout using Stripe online payment.
+React Global State e-commerce application. Users can shop and filter by gender for t-shirts as well as create accounts and make purchases through Stripe. 
 
 ## Usage
 
